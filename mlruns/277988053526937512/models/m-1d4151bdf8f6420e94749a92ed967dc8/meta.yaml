@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/HP/Documents/AI_ML/Npontu_Data_Science/Bank-Deposit-Prediction/mlruns/277988053526937512/models/m-1d4151bdf8f6420e94749a92ed967dc8/artifacts
+creation_timestamp: 1757860542808
+experiment_id: '277988053526937512'
+last_updated_timestamp: 1757860560481
+model_id: m-1d4151bdf8f6420e94749a92ed967dc8
+model_type: null
+name: model
+source_run_id: 64e202c9de0d40a3ad604f3139b193b7
+status: 2
+status_message: null

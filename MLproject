@@ -1,0 +1,12 @@
+name: Bank-Deposit-Prediction
+python_env: python_env.yaml   
+entry_points:
+  main:
+    parameters:
+      solver: {type: str, default: saga}
+      penalty: {type: str, default: l2}
+      C: {type: float, default: 1}
+    command: "python main.py --solver {solver} --penalty {penalty} --C {C}"
+
+
+  

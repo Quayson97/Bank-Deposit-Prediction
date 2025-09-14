@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/Documents/AI_ML/Npontu_Data_Science/Bank-Deposit-Prediction/mlruns/277988053526937512/cd9b8722a3964386ab6a0f506d63a8e9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '277988053526937512'
+lifecycle_stage: active
+run_id: cd9b8722a3964386ab6a0f506d63a8e9
+run_name: skillful-ant-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757862932222
+status: 1
+tags: []
+user_id: HP

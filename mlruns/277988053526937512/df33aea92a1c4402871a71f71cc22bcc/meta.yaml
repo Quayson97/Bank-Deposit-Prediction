@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/Documents/AI_ML/Npontu_Data_Science/Bank-Deposit-Prediction/mlruns/277988053526937512/df33aea92a1c4402871a71f71cc22bcc/artifacts
+end_time: 1757861708502
+entry_point_name: ''
+experiment_id: '277988053526937512'
+lifecycle_stage: active
+run_id: df33aea92a1c4402871a71f71cc22bcc
+run_name: whimsical-steed-547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757861666433
+status: 3
+tags: []
+user_id: HP

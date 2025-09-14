@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/Documents/AI_ML/Npontu_Data_Science/Bank-Deposit-Prediction/mlruns/277988053526937512/5cff4ed06883499397fc2f8726b939bd/artifacts
+end_time: 1757860838857
+entry_point_name: ''
+experiment_id: '277988053526937512'
+lifecycle_stage: active
+run_id: 5cff4ed06883499397fc2f8726b939bd
+run_name: zealous-zebra-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757860804185
+status: 4
+tags: []
+user_id: HP

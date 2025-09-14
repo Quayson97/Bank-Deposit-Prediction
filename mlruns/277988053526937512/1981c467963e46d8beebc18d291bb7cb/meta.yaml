@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/Documents/AI_ML/Npontu_Data_Science/Bank-Deposit-Prediction/mlruns/277988053526937512/1981c467963e46d8beebc18d291bb7cb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '277988053526937512'
+lifecycle_stage: active
+run_id: 1981c467963e46d8beebc18d291bb7cb
+run_name: aged-shrew-807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757863062204
+status: 1
+tags: []
+user_id: HP

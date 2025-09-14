@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/Documents/AI_ML/Npontu_Data_Science/Bank-Deposit-Prediction/mlruns/277988053526937512/8226a9a41c304743a8e443dbadb49559/artifacts
+end_time: 1757860675483
+entry_point_name: ''
+experiment_id: '277988053526937512'
+lifecycle_stage: active
+run_id: 8226a9a41c304743a8e443dbadb49559
+run_name: gaudy-robin-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757860640747
+status: 4
+tags: []
+user_id: HP

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/Documents/AI_ML/Npontu_Data_Science/Bank-Deposit-Prediction/mlruns/277988053526937512/64e202c9de0d40a3ad604f3139b193b7/artifacts
+end_time: 1757860566969
+entry_point_name: ''
+experiment_id: '277988053526937512'
+lifecycle_stage: active
+run_id: 64e202c9de0d40a3ad604f3139b193b7
+run_name: painted-worm-381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757860528457
+status: 4
+tags: []
+user_id: HP
